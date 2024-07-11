@@ -1,0 +1,13 @@
+@media screen and (max-width: 991px) {
+  .our-team-body {
+    display: block;
+  }
+
+  .our-team-container {
+    padding: 50px 40px;
+  }
+
+  .card {
+    margin-bottom: 20px;
+  }
+}
